@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/ganraj_21" target="blank"><img src="https://img.shields.io/twitter/follow/ganraj_21?logo=twitter&style=for-the-badge" alt="ganraj_21" /></a> </p>
 
-- 🔭 I’m currently working on **Responsive Youtube channel Website**
+- 🔭 I’m currently working on **Responsive Portfolio Website**
 
 - 🌱 I’m currently learning **React**
 
