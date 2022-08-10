@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Resume Generator Website**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React js and Node js**
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
