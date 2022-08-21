@@ -32,8 +32,8 @@
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
  </p>
 <div align = "center">
-<img height="150px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=great-gatsby"></img>
-<img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+<img height="160px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=great-gatsby"></img>
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
 </div>
 
 ## 🤝 Connect with me  
