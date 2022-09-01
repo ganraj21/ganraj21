@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Front-End Projects**
 
-- 💬 Ask me about **CSS, JavaScript, React js, Node js, MySql, Data Structure and Algorithm**
+- 💬 Ask me about **HTML, CSS, JavaScript, React js, Node js, Data Structure and Algorithm**
 
 - 📫 How to reach me **ganrajp036956@gmail.com**
 
