@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Ghadge</h1>
 <h3 align="center">A Passionate Front-end Developer</h3>
-<a href="#"><img   height="20%" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" /></a>
+<a href="#"><img   height="20%" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" /></a><hr/>
 <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p>
 
 - 🔭 I’m currently working on **Resume Generator Website**
