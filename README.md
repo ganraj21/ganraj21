@@ -54,6 +54,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 </div>
-
-Leave a ⭐ from [here](https://github.com/ganraj21/ganraj21) if you like 😁
-
+ <hr/>
+<h3 align="center"> DON'T FORGET TO ⭐ THIS REPOSITORY !!!
+</h3> 
