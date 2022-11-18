@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ganesh Ghadge</h1>
-<h3 align="center">A Passionate Front-end Web Developer</h3>
-<a href="#"><img   height="20%" src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" /></a><hr/>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Ganesh Ghadge</h1>
+
+ <h3 align="center">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥. </h3>
+
+<a href="#"><img width="100%"  height="350px" src="https://user-images.githubusercontent.com/89139437/202667951-ac79724a-f207-4a18-89c6-0a634ade3f3b.gif" /></a><hr/>
 <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p>
 
 - 🔭 I’m currently working on **Resume Generator Website**
@@ -15,7 +17,8 @@
 
 - ⚡ Fun fact **I always drink water after Tea**
 
-## 🛠️ Languages and Tools
+## My Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" height="30px"/>
+
 <p align="center"> 
   <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -32,8 +35,8 @@
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
  </p>
 <div align = "center">
-<img height="160px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=great-gatsby"></img>
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+<img height="160px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=react"&hide_border=true&bg_color=0D1117" ></img>
+<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
 </div>
 
 ## 🤝 Connect with me  
