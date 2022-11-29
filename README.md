@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React js and Node js**
 
-- 👯 I’m looking to collaborate on **Front-End Projects**
+- 👯 I’m looking to collaborate on **Back-End Projects**
 
 - 💬 Ask me about **HTML,  CSS,  JavaScript,  React js,  Node js,  Data Structure and Algorithm**
 
