@@ -2,7 +2,7 @@
 
  <h3 align="center">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥. </h3>
 
-<a href="#"><img width="100%"  height="350px" src="https://user-images.githubusercontent.com/89139437/202667951-ac79724a-f207-4a18-89c6-0a634ade3f3b.gif" /></a><hr/>
+<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/202667951-ac79724a-f207-4a18-89c6-0a634ade3f3b.gif" /></a><hr/>
 <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p>
 
 - 🔭 I’m currently working on **Resume Generator Website**
