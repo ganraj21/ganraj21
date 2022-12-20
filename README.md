@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Ganesh Ghadge</h1>
-
+<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ganraj21/" target="_blank">Ganesh Ghadge</a></h1>
  <h3 align="center">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥. </h3>
 
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/202667951-ac79724a-f207-4a18-89c6-0a634ade3f3b.gif" /></a><hr/>
