@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ganraj21/" target="_blank">Ganesh Ghadge</a></h1>
  <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥. </p>
 
-<a href="#"><img width="100%" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" /></a>
+<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
 <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p>
 
 - 🔭 I’m currently working on **Resume Generator Website**
