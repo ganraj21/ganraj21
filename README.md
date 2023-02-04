@@ -1,4 +1,7 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.linkedin.com/in/ganraj21/" target="_blank">Ganesh Ghadge</a></h1>
+# Hi 👋, I'm <strong>Ganesh Ghadge
+<!--  <p align="center" dir="auto">___</p> -->
+</p>
+
  <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥. </p>
 
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
@@ -56,5 +59,6 @@
 </a>
 </div>
  <hr/>
+
 <h3 align="center"> DON'T FORGET TO ⭐ THIS REPOSITORY !!!
 </h3> 
