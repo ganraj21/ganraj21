@@ -4,17 +4,13 @@
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
 <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p>
 
-- 🔭 I’m currently working on **Resume Generator Website**
-
-- 🌱 I’m currently learning **React js and Node js**
+- 💻 Currently working on: **API based Web-Application**
 
 - 👯 I’m looking to collaborate on **Back-End Projects**
 
-- 💬 Ask me about **HTML,  CSS,  JavaScript,  React js,  Node js,  Data Structure and Algorithm**
+- 💬 Expertise: HTML, CSS, JavaScript, React js, Node js, Data Structure, and Algorithm
 
-- 📫 How to reach me **ganrajp036956@gmail.com**
-
-- ⚡ Fun fact **I always drink water after Tea**
+- 📫 Contact email: ganrajp036956@gmail.com
 
 ## My Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" height="30px"/>
 
