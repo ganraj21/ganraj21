@@ -1,6 +1,7 @@
 # Hi 👋, I'm <strong>Ganesh Ghadge
 <!--  <p align="center" dir="auto">___</p> -->
 </p>
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a> -->
 
  <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥. </p>
 
