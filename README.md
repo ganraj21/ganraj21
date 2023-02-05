@@ -1,4 +1,4 @@
-# Hi 👋, I'm <strong>Ganesh Ghadge
+<h1> Hi 👋, I'm  <a href="https://www.linkedin.com/in/ganraj21/"> Ganesh Ghadge </a> </h1>
 <!--  <p align="center" dir="auto">___</p> -->
 </p>
 
