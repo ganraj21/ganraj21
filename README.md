@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Back-End Projects**
 
-- 💬 Expertise: HTML, CSS, JavaScript, React js, Node js, Data Structure, and Algorithm
+- 💬 Expertise: HTML, CSS, JavaScript, React JS, Node JS, Data Structure, and Algorithm
 
 - 📫 Contact email: ganrajp036956@gmail.com
 
