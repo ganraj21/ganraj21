@@ -2,7 +2,6 @@
 <!--  <p align="center" dir="auto">___</p> -->
 </p>
 
-
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
 <!-- <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p> -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
