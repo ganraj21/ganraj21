@@ -1,10 +1,5 @@
-<h1> Hi 👋, I'm  <a href="https://www.linkedin.com/in/ganraj21/" target="_blank" > Ganesh Ghadge </a> </h1>
-<!--  <p align="center" dir="auto">___</p> -->
-</p>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/ganraj21/" target="_blank"> Ganesh Ghadge </a></h1>
 
-<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
-<!-- <p margin-left='60px'> <img src="https://komarev.com/ghpvc/?username=ganraj21&label=Profile%20views&color=0e75b6&style=flat" alt="ganraj21" /> </p> -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥. </p>
 
 - 💻 Currently working on: **API based Web-Application**
@@ -15,9 +10,14 @@
 
 - 📫 Contact email: ganrajp036956@gmail.com
 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
+
 ## My Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" height="30px"/>
 
-<p align="center"> 
+<p align="left"> 
   <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
