@@ -10,7 +10,6 @@
 
 - 📫 Contact email: ganrajp036956@gmail.com
 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/89139437/215308553-90d036c9-a8f1-44a7-b475-3d504f380576.gif" /></a>
