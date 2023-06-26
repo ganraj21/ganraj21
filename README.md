@@ -1,15 +1,18 @@
+
+<!-- <img src="https://readme-typing-svg.herokuapp.com?lines=Information+Technology+Engineering+Student;Exploring+and+Learning+New+Technologies&center=true&width=500&height=50"> -->
+<!-- </span> -->
+
 <img  width="100%" src="https://github.com/ganraj21/ganraj21/assets/89139437/40a9cb8d-7bfd-4aa2-a250-4bd6701d908d">
 
 <img  width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥. </p> 
 
-- 💻 Currently working on: **API based Web-Application**
-
+- I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
+- 🔭 I’m currently working on a fullstack app.<br/>
 - 👯 I’m looking to collaborate on **Back-End Projects**
-
+-  I love❤ to make **exciting projects**. <br/>
 - 💬 Expertise: HTML, CSS, JavaScript, React JS, Node JS, Data Structure, and Algorithm
-
 - 📫 Contact email: ganrajp036956@gmail.com
 
 ## My Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35" height="30px"/>
@@ -30,6 +33,10 @@
  <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
  <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img alt="IntelliJIDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+ <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  </p>
 <div align = "center">
 <!--  https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme="&hide_border=true&bg_color=0D1117 -->
