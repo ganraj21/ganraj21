@@ -21,11 +21,11 @@
   <img alt="C++" src="https://img.shields.io/badge/c++-%23ED8B00.svg?&style=for-the-badge&logo=C++&logoColor=red" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
@@ -38,10 +38,18 @@
  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  </p>
+
 <div align = "center">
 <!--  https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme="&hide_border=true&bg_color=0D1117 -->
-<img height="160px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=react"&hide_border=true&bg_color=0D1117 ></img>
-<img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+<img height="180px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=react"&hide_border=true&bg_color=0D1117 ></img>
+<img height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
+</div>
+
+## My Recent Projects 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganraj21&repo=Dental_Clinic&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganraj21&repo=Portfolio-Web-Application&show_icons=true&theme=great-gatsby"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=ganraj21&repo=Open-metacryptoAI&show_icons=true&theme=great-gatsby"> 
 </div>
 
 ## 🤝 Connect with me  
