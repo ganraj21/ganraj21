@@ -1,4 +1,4 @@
-<img  width="100%" src="https://github.com/ganraj21/ganraj21/assets/89139437/40a9cb8d-7bfd-4aa2-a250-4bd6701d908d">
+<img  width="100%" src="https://github.com/ganraj21/ganraj21/assets/89139437/40a9cb8d-7bfd-4aa2-a250-4bd6701d908d"> 
 
 <img  width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -36,7 +36,6 @@
  </p>
 
 <div align = "center">
-<!--  https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme="&hide_border=true&bg_color=0D1117 -->
 <img height="160px" margin-right="6px" src="https://github-readme-stats.vercel.app/api?username=ganraj21&hide_border=true&show_icons=true&theme=react"&hide_border=true&bg_color=0D1117 ></img>
 <img height="160px" src="https://github-readme-streak-stats.herokuapp.com/?user=ganraj21&theme=black-ice&hide_border=true&bg_color=0D1117&stroke=0000&background=060A0CD0"&hide_border=true&date_format=j%20M%5B%20Y%5D"><br><br>
 </div>
