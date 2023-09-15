@@ -5,7 +5,7 @@
 <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥.</p> 
 
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
-- 🔭 I’m currently working on a fullstack app.<br/>
+- 🔭 I’m currently working on a Fullstack app.<br/>
 - 👯 I’m looking to collaborate on **Back-End Projects**
 -  I love❤ to make **exciting projects**. <br/>
 - 💬 Expertise: HTML, CSS, JavaScript, React JS, Node JS, Data Structure, and Algorithm
