@@ -46,7 +46,7 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganraj21&repo=Dental_Clinic&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganraj21&repo=Portfolio-Web-Application&show_icons=true&theme=great-gatsby"> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=ganraj21&repo=Open-metacryptoAI&show_icons=true&theme=great-gatsby"> 
-</div>
+</div>                                  
 
 ## 🤝 Connect with me  
 <div align="center" >
