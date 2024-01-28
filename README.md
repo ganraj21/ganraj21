@@ -5,6 +5,7 @@
 
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 
+
 - 🔭 I’m currently working on a Fullstack app.<br/>
 
 - 👯 I’m looking to collaborate on **Back-End Projects**
