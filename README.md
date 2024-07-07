@@ -25,11 +25,11 @@
  <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?&style=for-the-badge&logo=typescript&logoColor=white" />
  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-339933?style=for-the-badge&logo=selenium&logoColor=white" />
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="Rest-Assured" src="https://img.shields.io/badge/RestAssured-20232A?style=for-the-badge&logo=rest&logoColor=white" />
  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
  <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
- <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
  <img alt="mui" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-gray?style=for-the-badge&logo=mysql&logoColor=4EA94B" />
  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-lightgreen?style=for-the-badge&logo=mongodb&logoColor=4EA94B" />
