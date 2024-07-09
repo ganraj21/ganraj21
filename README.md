@@ -1,7 +1,9 @@
 <img  width="100%" src="https://github.com/ganraj21/ganraj21/assets/89139437/ddc20d06-642a-4b00-be82-ceed7a943a29"> 
 <img  width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥.</p> 
+<p align="left">I'm a skilled full-stack web developer with experience in HTML, CSS, JavaScript, ReactJS, Node.js, Express.js, and MongoDB. I stay current with industry trends and am familiar with Git and agile development. Collaboration and communication are important to me ✨, and I enjoy finding creative solutions with other developers. My goal is to create exceptional user experiences and I'm eager to contribute my skills to challenging projects</p>
+
+<!-- <p align="left">I am a self-motivated MERN stack Web developer 🤓 who loves to work in a challenging environment ✨. I am a quick learner and enjoy facing new challenges that test my skills and push me to think outside of the box. My passion for technology and problem-solving drives me to deliver high-quality and efficient solutions for my clients.💥.</p> -->
 
 - I really enjoy learning🚀 new languages and frameworks like **React⚛ and Typescript**.<br/>
 
